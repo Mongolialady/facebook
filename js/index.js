@@ -1,7 +1,6 @@
 /**
  * Created by haiyan on 10/16/17.
  */
-<script>
 function myFunction() {
     var s = document.getElementById("logo");
     if(s.innerHTML == "Haiyan")
@@ -9,4 +8,3 @@ function myFunction() {
     else
         s.innerHTML = "Haiyan"
 }
-</script>
