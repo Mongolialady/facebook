@@ -1,0 +1,134 @@
+.content {
+    background: #edf0f5;
+}
+
+.container {
+    width: 980px;
+}
+
+.content .container {
+    display: flex;
+    padding: 0;
+}
+
+.region {
+    flex: 1;
+    padding-top: 10px;
+    background: none;
+    margin-bottom: 40px;
+}
+
+.region .sub-title {
+    font-size: 19px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.image-text-top {
+    margin-top: 20px;
+}
+
+.image-text-bottom {
+    padding-bottom: 10px;
+}
+
+.text {
+    vertical-align: middle;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.desc {
+    width: 440px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.bold-text {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold !important;
+    letter-spacing: normal;
+    text-rendering: optimizelegibility;
+    color: #333;
+    font-size: 17px;
+    line-height: 22px;
+    margin-top: 20px;
+}
+
+.origin-text {
+    font-weight: normal;
+    color: #666;
+    font-size: 15px;
+    line-height: 20px;
+    margin-left: 10px;
+}
+
+.region .title {
+    font-size: 36px;
+}
+
+.region .register-form {
+    font-size: 17px;
+}
+
+.region .form-input {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.register-form .cell {
+    padding: 2px 2px 8px 0px;
+}
+
+.region .placeholderInput {
+    padding: 8px 10px;
+}
+
+.region .placeholderInputName {
+    width: 194px;
+    margin-right: 8px;
+}
+
+.region .placeholderInputmp {
+    width: 398px;
+}
+
+.region .date-selection {
+    margin-top: 5px;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.region .why_region {
+    display: inline-block;
+    max-width: 170px;
+    font-size: 11px;
+    margin-left: 10px;
+}
+
+.region .why {
+    font-size: 12px;
+}
+
+.region .c-button {
+    min-width: 194px;
+    padding: 7px 20px;
+    text-align: center;
+    background-color: #69a74e;
+    color: white;
+    font-size: 19px;
+    border-radius: 5px;
+}
+
+.region .announcement {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 350px;
+    font-size: 11px;
+}
+
+.region .b-msg {
+    font-size: 13px;
+    font-weight: bold;
+    padding-top: 25px;
+}
